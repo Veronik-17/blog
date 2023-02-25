@@ -1,0 +1,4 @@
+[submodule "Veronik-17.github.io"]
+	path = Veronik-17.github.io
+	url = https://github.com/Veronik-17/Veronik-17.github.io.git
+	branch = main
